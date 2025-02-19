@@ -5,16 +5,16 @@ A simple and secure Password Generator built using React.js. This tool helps you
 
 🚀 Features
 ✅ Generate random strong passwords
-✅ Customize password length
-✅ Include/exclude uppercase, lowercase, numbers, and symbols
+✅ Customize password length,
+✅ Include/exclude uppercase, lowercase, numbers, and symbols,
 ✅ Copy password to clipboard with one click
 ✅ Responsive UI with a clean and modern design
 
 🛠️ Technologies Used
-React.js – Frontend framework
-Tailwind CSS – Styling framework
+React.js – Frontend framework,
+Tailwind CSS – Styling framework,
 useState & useEffect – React hooks for state management
-Clipboard API – To copy passwords easily
+Clipboard API – To copy passwords easily and usinf useRef hook
 
 
 
